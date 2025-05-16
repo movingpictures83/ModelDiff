@@ -1,0 +1,2 @@
+Prefix plugins/ModelDiff/example/
+Plugin ModelDiff inputfile resample.rds outputfile none
